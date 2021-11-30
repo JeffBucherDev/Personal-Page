@@ -254,6 +254,7 @@ textarea {
 	font-weight: 300;
 	letter-spacing: 0.0375em;
 	line-height: 2;
+	font-display: swap;
 }
 
 a {
